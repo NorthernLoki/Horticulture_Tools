@@ -38,9 +38,9 @@ Example metrics generated using test data
 
 > PAR Min :-0.00012346 @316.63 nm
 
-Example spectral plot:
+Example spectrum plot of YPF:
 
-
+![example spectrum plot](https://github.com/NorthernLoki/Horticulture_Tools/blob/master/Spectrum/spectrum_example.png)
 
 ### License Information:
 Creative Commons Share Alike International V4, see LICENSE.txt for the details.
