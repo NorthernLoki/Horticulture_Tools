@@ -8,7 +8,7 @@ A set of libraries on tools useful for horticulture.
 | Spectrums | Data and example files used in the calculation of lighting metrics.
 | DLI | Libraries useful for the calculation of daily light integral.
 | Sun | Libraries useful for the calculation of the sun position based on location, date, and time.
-| Transipiration | Libraries useful for the calcuation of plant transpirations such as vapor pressure deficit.
+| Transpiration | Libraries useful for the calcuation of plant transpirations such as vapor pressure deficit.
 
 ---
 
