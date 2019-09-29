@@ -1,6 +1,7 @@
 # Spectrum Tools
 
----
+
+
 ### Building
 
 The makefile will produce a shared library named libSpectrum.so
@@ -14,6 +15,7 @@ For release :
 > make CONFIG=Release
 
 ---
+
 ### Example metrics generated using test data
 
 > Blue: 19.8775%
