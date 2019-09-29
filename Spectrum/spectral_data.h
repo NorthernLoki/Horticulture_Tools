@@ -45,7 +45,7 @@ public:
     
     std::map<float, float> ordered_spectra;
     boost::unordered::unordered_map<float, float> spectra;
-}
+};
 
 
 
