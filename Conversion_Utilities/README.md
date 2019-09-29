@@ -1,6 +1,20 @@
 # Unit Conversion Tools
 
 
+### Building
+
+The makefile will produce a shared library named libSpectrum.so
+
+For debug symbols : 
+
+> make CONFIG=Debug
+
+For release :
+
+> make CONFIG=Release
+
+---
+
 ### License Information:
 Creative Commons Share Alike International V4, see LICENSE.txt for the details.
 
