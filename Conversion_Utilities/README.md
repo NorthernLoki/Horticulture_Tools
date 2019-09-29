@@ -3,7 +3,7 @@
 
 ### Building
 
-The makefile will produce a shared library named libSpectrum.so
+The makefile will produce a shared library named libConversion_Utilities.so
 
 For debug symbols : 
 
