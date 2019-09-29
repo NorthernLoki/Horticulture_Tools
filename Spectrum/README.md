@@ -1,6 +1,20 @@
 # Spectrum Tools
 
-Example metrics generated using test data
+---
+### Building
+
+The makefile will produce a shared library named libSpectrum.so
+
+For debug symbols : 
+
+make CONFIG=Debug
+
+For release :
+
+make CONFIG=Release
+
+---
+### Example metrics generated using test data
 
 > Blue: 19.8775%
 
