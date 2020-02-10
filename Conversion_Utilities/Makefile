@@ -36,7 +36,7 @@ error:
 	$(error Invalid configuration, please check your inputs)
 endif
 
-SOURCEFILES := Celcius.cpp Conversion_Utilities.cpp Farenheit.cpp Kelvin.cpp
+SOURCEFILES := Celcius.cpp Conversion_Utilities.cpp Farenheit.cpp Kelvin.cpp Rankine.cpp
 EXTERNAL_LIBS := 
 EXTERNAL_LIBS_COPIED := $(foreach lib, $(EXTERNAL_LIBS),$(BINARYDIR)/$(notdir $(lib)))
 
